@@ -12,6 +12,13 @@ measures such as blocking identified terrorist activity sites. With continued re
 refinement, machine learning-driven web data mining stands as a potent tool in thwarting the
 online dissemination of terrorist propaganda and activities, bolstering cybersecurity and global
 security efforts.
-Keywords: Web data mining, terrorism detection, machine learning techniques, XGBoost,
+# Keywords
+Web data mining, terrorism detection, machine learning techniques, XGBoost,
 Gradient Boosting, Adaboost, SVM, Random Forest, feature extraction, website analysis,
 cybersecurity, global security.
+# Advantages
+Enhanced Accuracy
+Scalability
+Reduced Dependency on Human Intervention
+
+
