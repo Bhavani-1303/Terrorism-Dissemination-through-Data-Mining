@@ -17,8 +17,8 @@ Web data mining, terrorism detection, machine learning techniques, XGBoost,
 Gradient Boosting, Adaboost, SVM, Random Forest, feature extraction, website analysis,
 cybersecurity, global security.
 # Advantages
-Enhanced Accuracy
-Scalability
-Reduced Dependency on Human Intervention
+* Enhanced Accuracy
+* Scalability
+* Reduced Dependency on Human Intervention
 
 
